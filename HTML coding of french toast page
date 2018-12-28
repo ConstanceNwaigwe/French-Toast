@@ -1,0 +1,45 @@
+<div id="main">
+  <div id="title">
+    <h1 id="words">French Toast</h1>
+    <p>The Breakfast Made For Kings </p>
+  </div>
+  <div id="img-div">
+    <img id="image" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvx6OMxIVSAIa1aXpbQOdeKDwuI5Rl2NJaUokyegJ4TiaGuE56-g"/>
+    <p id="img-caption">French Toast with fruits on top. </p>
+  </div>
+  
+  <div class="ltt">
+    <div id="border">Level: Easy</div>
+    <div id="border">Total Cooking Time: 30 mintues</div>
+    <div id="border">Total number of Servings: 4</div>
+  </div>
+  
+  <div  id="tribute-info">
+    <h2>Ingredients:</h2>
+    <ul>
+      <li><strong>2</strong> eggs</li>
+      <li><strong>1/4</strong> cup of milk</li>
+      <li><strong>1/2</strong> teaspoon of vanilla extra</li>
+      <li><strong>1</strong> teaspoon of honey</li>
+      <li><strong>2</strong> teaspoon of butter</li>
+      <li><strong>4</strong> slices of Bread</li>
+      <li><strong>Any amount</strong> of Fresh Fruits</li>
+    </ul>
+  </div>
+  <div  id="tribute-info">
+    <h2>Directions:</h2>
+    <ol>
+      <li>Crack eggs and put both the yolks and whites in a bowl.</li>
+      <li>Beat the eggs for 30-40 seconds.</li>
+      <li>Put the milk, vanilla, and honey in the bowl.</li>
+      <li>Mix and stir for 60 seconds.</li>
+      <li>Put butter in  the microwave for 10 seconds or untill melted.</li>
+      <li>Put melted butter in the bowl and mix well for 40 seconds.</li>
+      <li>Dip Bread in mixture and fry until golden brown then flip to fry the other side.</li>
+      <li>After fry put Fresh Fruits on the Toast along with syrup.</li>
+    </ol>
+  </div>
+  <div id="footer">
+    <footer>2018 French Toast</footer>
+  </div>
+</div>
