@@ -1,0 +1,41 @@
+
+#main{
+  background-color:#DAFEF7;
+  margin:40px;
+}
+#title{
+  height:80px;
+  margin:40px 0px 10px 0px;
+  text-align:center;
+  background-color:#E6E6FA;
+}
+
+.ltt{
+  height:50px;
+  
+  display:flex;
+  flex-direction:row;
+  justify-content:center;
+}
+#border{
+  border:2px dashed black;
+  
+}
+
+#image{
+  max-width: 700px;
+  min-height:400px;
+  margin:0px auto 0px auto;
+  display:block;
+}
+
+#img-caption{
+  text-align:center;
+}
+#tribute-info{
+  margin:0px 10px 0px 0px
+}
+#footer{
+  background:#90EE90;
+  text-align:center;
+}
